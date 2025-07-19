@@ -57,6 +57,7 @@ google-cloud-storage==3.2.0
 google-crc32c==1.7.1
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
+gunicorn
 grpcio==1.73.1
 grpcio-status==1.73.1
 h11==0.16.0
@@ -156,6 +157,7 @@ rfc3986-validator==0.1.1
 rich==14.0.0
 rpds-py==0.26.0
 rsa==4.9.1
+scikit-learn
 scipy==1.15.2
 seaborn==0.13.2
 Send2Trash==1.8.3
